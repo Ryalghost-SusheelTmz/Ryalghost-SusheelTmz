@@ -47,7 +47,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 
 ## 🧪 Featured SOC & Cybersecurity Labs
 
-> My cybersecurity portfolio focuses on **SOC Level 1 fundamentals**: monitoring, log analysis, alert validation, investigation, clear escalation and documentation. The Wazuh lab is published with its walkthrough, conceptual diagrams and safe sample code. Other standalone project repositories are still being prepared.
+> My cybersecurity portfolio focuses on **SOC Level 1 fundamentals**: monitoring, log analysis, alert validation, network defense, investigation, escalation and evidence-based documentation. The Wazuh, SafeLine WAF and pfSense projects have dedicated published case studies; additional labs remain in development.
 
 | Project | Stack | Documentation |
 |:--|:--|:--|
@@ -57,8 +57,9 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 | **04** 🤖 AI-Assisted Home SOC | Wazuh · Grafana · NetAlertX · AIRIA | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/ai-assisted-home-soc) |
 | **05** 🌐 SafeLine WAF & DVWA Security Lab | SafeLine · Apache · DVWA · TLS | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/safeline-waf-dvwa-security-lab) |
 | **06** 🔎 Web Vulnerability Assessment | OWASP ZAP · Burp Suite · Nessus · Power BI | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/web-vulnerability-assessment-capstone) |
+| **07** 🔥 pfSense Firewall, VLANs, OpenVPN & Snort IDS **(Published)** | pfSense CE · VMware · VLANs · OpenVPN · Snort · Wireshark | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/pfSense-firewall-homelab) |
 
-<sub>**Publication status:** The Wazuh lab repository is live; the remaining five links will work after their individual repositories are published. Architecture graphics are illustrative; real lab screenshots and verified outputs will be added as available.</sub>
+<sub>**Publication status:** Wazuh, SafeLine WAF and pfSense have published repositories; the remaining four linked projects are not yet available at those URLs. The pfSense case study includes original lab screenshots, a deployment-aligned architecture and appropriately qualified detection findings.</sub>
 
 ---
 
@@ -81,6 +82,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 ![Splunk](https://img.shields.io/badge/Splunk-151b28?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-1466b8?style=flat-square)
 ![Suricata](https://img.shields.io/badge/Suricata_IDS-de653b?style=flat-square)
+![Snort](https://img.shields.io/badge/Snort_IDS-b02d39?style=flat-square)
 ![Sysmon](https://img.shields.io/badge/Sysmon-2667a8?style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-f46800?style=flat-square&logo=grafana&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-3367d6?style=flat-square)
@@ -129,7 +131,7 @@ These foundations support the day-to-day discipline required in an L1 SOC: **tec
 - More repeatable **alert-triage write-ups**, including log evidence, investigative steps, and escalation decisions.
 - Stronger **Windows/Sysmon** and network detection analysis through home lab exercises.
 - Practical familiarity with **SOC playbooks, prioritization, false-positive review, and defensive security operations**.
-- Working on nntegrated an AI agents to summarize security alerts, demonstrating an AI-assisted SOC workflow from telemetry to analyst-ready context
+- Exploring AI-assisted alert summarization while verifying conclusions against original logs and evidence
 - Building the AI-assisted SOC home lab 
 ## 📬 Let's Connect
 
