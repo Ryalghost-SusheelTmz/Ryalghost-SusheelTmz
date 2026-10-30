@@ -57,7 +57,7 @@ I enjoy turning raw logs into a clear story: **what happened, which systems migh
 | **04** 🤖 AI-Assisted Home SOC | Wazuh · Grafana · NetAlertX · AIRIA | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/ai-assisted-home-soc) |
 | **05** 🌐 SafeLine WAF & DVWA Security Lab | SafeLine · Apache · DVWA · TLS | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/safeline-waf-dvwa-security-lab) |
 | **06** 🔎 Web Vulnerability Assessment | OWASP ZAP · Burp Suite · Nessus · Power BI | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/web-vulnerability-assessment-capstone) |
-| **07** 🔥 pfSense Firewall, VLANs, OpenVPN & Snort IDS **(Published)** | pfSense CE · VMware · VLANs · OpenVPN · Snort · Wireshark | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/pfSense-firewall-homelab) |
+| **07** 🔥 pfSense Firewall, VLANs, OpenVPN & Snort IDS  | pfSense CE · VMware · VLANs · OpenVPN · Snort · Wireshark | [Explore project ↗](https://github.com/Ryalghost-SusheelTmz/pfSense-firewall-homelab) |
 
 <sub>**Publication status:** Wazuh, SafeLine WAF and pfSense have published repositories; the remaining four linked projects are not yet available at those URLs. The pfSense case study includes original lab screenshots, a deployment-aligned architecture and appropriately qualified detection findings.</sub>
 
